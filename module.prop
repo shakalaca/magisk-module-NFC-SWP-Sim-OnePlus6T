@@ -1,0 +1,7 @@
+id=oneplus6TNFCSimEnabler
+name=OnePlus 6T NFC Sim Enabler
+version=v1.0
+versionCode=1
+author=shakalaca
+description=Enable NFC SIM feature for OnePlus 6T
+minMagisk=17000
